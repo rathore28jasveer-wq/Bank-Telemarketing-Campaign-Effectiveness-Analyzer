@@ -18,10 +18,6 @@ The project follows a **4-Tier Analytics Pipeline**:
 
 **Descriptive → Diagnostic → Predictive → Prescriptive**
 
-The submitted implementation is provided as a Jupyter Notebook and is designed for reproducible data analysis and machine learning.
-
-> **Source attribution:** This repository is an adapted and independently structured implementation based on the public project **Bank Telemarketing Campaign Effectiveness Analyzer** by Sanket Kale. The source project is acknowledged to distinguish the original public work from this submission by Jasveer Singh.
-
 ---
 
 ## 🎯 Problem Statement
