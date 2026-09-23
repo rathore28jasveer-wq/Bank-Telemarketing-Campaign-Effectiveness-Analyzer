@@ -314,14 +314,6 @@ Run the cells from top to bottom. The notebook loads the UCI dataset, performs p
 > Decision Support Systems, 2014.  
 > http://dx.doi.org/10.1016/j.dss.2014.03.001
 
-### Public Source Project
-
-**Sanket Kale — Bank Telemarketing Campaign Effectiveness Analyzer**
-
-https://github.com/Sanketkale96/Bank-Telemarketing-Campaign-Analyzer
-
-The public source project is acknowledged because this submission is an adapted and independently structured version of that publicly available project. The author of this repository is **Jasveer Singh**.
-
 ---
 
 ## 👤 Author
